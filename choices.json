@@ -1,0 +1,145 @@
+{
+  "choice_001": {
+    "text": "اعلام آماده‌باش کامل",
+    "event": "event_001",
+    "next_scene": "scene_002"
+  },
+  "choice_002": {
+    "text": "جمع‌آوری اطلاعات بیشتر",
+    "event": "event_002",
+    "next_scene": "scene_003"
+  },
+  "choice_003": {
+    "text": "نادیده گرفتن گزارش",
+    "event": "event_003",
+    "next_scene": "scene_004"
+  },
+
+  "choice_004": {
+    "text": "فعال‌سازی دفاع سایبری",
+    "event": "event_004",
+    "next_scene": "scene_005"
+  },
+  "choice_005": {
+    "text": "کنترل مرزها",
+    "event": "event_007",
+    "next_scene": "scene_006"
+  },
+  "choice_006": {
+    "text": "بازداشت افراد مشکوک",
+    "event": "event_008",
+    "next_scene": "scene_004"
+  },
+
+  "choice_007": {
+    "text": "اطلاع‌رسانی شفاف",
+    "event": "event_005",
+    "next_scene": "scene_005"
+  },
+  "choice_008": {
+    "text": "کنترل رسانه‌ها",
+    "event": "event_006",
+    "next_scene": "scene_006"
+  },
+  "choice_009": {
+    "text": "برگزاری جلسه اضطراری",
+    "event": "event_009",
+    "next_scene": "scene_004"
+  },
+
+  "choice_010": {
+    "text": "اعزام فوری نیرو",
+    "event": "event_010",
+    "next_scene": "scene_006"
+  },
+  "choice_011": {
+    "text": "مذاکره و آرام‌سازی",
+    "event": "event_013",
+    "next_scene": "scene_007"
+  },
+  "choice_012": {
+    "text": "پنهان‌سازی ابعاد حادثه",
+    "event": "event_017",
+    "next_scene": "scene_008"
+  },
+
+  "choice_013": {
+    "text": "تشکیل کمیته مشترک",
+    "event": "event_009",
+    "next_scene": "scene_007"
+  },
+  "choice_014": {
+    "text": "اختیار کامل به نیروهای نظامی",
+    "event": "event_014",
+    "next_scene": "scene_008"
+  },
+  "choice_015": {
+    "text": "حمله پیشگیرانه محدود",
+    "event": "event_015",
+    "next_scene": "scene_009"
+  },
+
+  "choice_016": {
+    "text": "تمرکز بر نجات غیرنظامیان",
+    "event": "event_005",
+    "next_scene": "scene_008"
+  },
+  "choice_017": {
+    "text": "قطع موقت برخی خدمات",
+    "event": "event_016",
+    "next_scene": "scene_009"
+  },
+  "choice_018": {
+    "text": "مخفی‌کاری کامل",
+    "event": "event_017",
+    "next_scene": "scene_010"
+  },
+
+  "choice_019": {
+    "text": "پذیرش کمک محدود",
+    "event": "event_011",
+    "next_scene": "scene_009"
+  },
+  "choice_020": {
+    "text": "رد کامل کمک خارجی",
+    "event": "event_018",
+    "next_scene": "scene_010"
+  },
+  "choice_021": {
+    "text": "توافق محرمانه",
+    "event": "event_013",
+    "next_scene": "scene_010"
+  },
+
+  "choice_022": {
+    "text": "برخورد امنیتی شدید",
+    "event": "event_012",
+    "next_scene": "scene_009"
+  },
+  "choice_023": {
+    "text": "گفت‌وگو با معترضان",
+    "event": "event_005",
+    "next_scene": "scene_010"
+  },
+  "choice_024": {
+    "text": "کنترل ترکیبی بحران",
+    "event": "event_009",
+    "next_scene": "scene_010"
+  },
+
+  "choice_025": {
+    "text": "پاسخ تهاجمی همه‌جانبه",
+    "event": "event_019",
+    "next_scene": "scene_010"
+  },
+  "choice_026": {
+    "text": "دفاع لایه‌ای و کنترل بحران",
+    "event": "event_014",
+    "next_scene": "scene_010"
+  },
+  "choice_027": {
+    "text": "فریب اطلاعاتی",
+    "event": "event_015",
+    "next_scene": "scene_010"
+  }
+}
