@@ -1,0 +1,12 @@
+{
+  "security": 50,
+  "public_trust": 50,
+  "enemy_influence": 50,
+  "casualties": 0,
+  "stability": 50,
+  "budget": 100,
+  "military": 100,
+  "intelligence": 80,
+  "international_support": 60,
+  "time": 24
+}
