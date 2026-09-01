@@ -1,0 +1,154 @@
+{
+  "event_001": {
+    "security": 10,
+    "public_trust": -5,
+    "enemy_influence": -5,
+    "casualties": 0,
+    "stability": 2,
+    "budget": -5
+  },
+  "event_002": {
+    "security": 4,
+    "public_trust": 0,
+    "enemy_influence": -10,
+    "casualties": 0,
+    "stability": 1,
+    "budget": -2
+  },
+  "event_003": {
+    "security": -4,
+    "public_trust": -3,
+    "enemy_influence": 12,
+    "casualties": 0,
+    "stability": -2,
+    "budget": 0
+  },
+  "event_004": {
+    "security": 8,
+    "public_trust": 0,
+    "enemy_influence": -8,
+    "casualties": 0,
+    "stability": 1,
+    "budget": -5
+  },
+  "event_005": {
+    "security": 1,
+    "public_trust": 10,
+    "enemy_influence": -2,
+    "casualties": 0,
+    "stability": 3,
+    "budget": -1
+  },
+  "event_006": {
+    "security": 2,
+    "public_trust": -8,
+    "enemy_influence": 2,
+    "casualties": 0,
+    "stability": 2,
+    "budget": 0
+  },
+  "event_007": {
+    "security": 7,
+    "public_trust": -1,
+    "enemy_influence": -3,
+    "casualties": 0,
+    "stability": 1,
+    "budget": -6
+  },
+  "event_008": {
+    "security": 6,
+    "public_trust": -6,
+    "enemy_influence": -4,
+    "casualties": 0,
+    "stability": 0,
+    "budget": -2
+  },
+  "event_009": {
+    "security": 2,
+    "public_trust": 1,
+    "enemy_influence": -1,
+    "casualties": 0,
+    "stability": 4,
+    "budget": -2
+  },
+  "event_010": {
+    "security": 5,
+    "public_trust": -2,
+    "enemy_influence": -1,
+    "casualties": 2,
+    "stability": 1,
+    "budget": -4
+  },
+  "event_011": {
+    "security": 4,
+    "public_trust": -2,
+    "enemy_influence": -5,
+    "casualties": 0,
+    "stability": 1,
+    "budget": -3
+  },
+  "event_012": {
+    "security": 5,
+    "public_trust": -12,
+    "enemy_influence": -2,
+    "casualties": 5,
+    "stability": 4,
+    "budget": -3
+  },
+  "event_013": {
+    "security": 1,
+    "public_trust": 3,
+    "enemy_influence": -3,
+    "casualties": 0,
+    "stability": 3,
+    "budget": -1
+  },
+  "event_014": {
+    "security": 6,
+    "public_trust": -4,
+    "enemy_influence": 0,
+    "casualties": 0,
+    "stability": 2,
+    "budget": -2
+  },
+  "event_015": {
+    "security": 2,
+    "public_trust": 0,
+    "enemy_influence": -8,
+    "casualties": 0,
+    "stability": 1,
+    "budget": -1
+  },
+  "event_016": {
+    "security": 6,
+    "public_trust": -6,
+    "enemy_influence": 0,
+    "casualties": 0,
+    "stability": 1,
+    "budget": -3
+  },
+  "event_017": {
+    "security": -2,
+    "public_trust": -10,
+    "enemy_influence": 3,
+    "casualties": 1,
+    "stability": -2,
+    "budget": 0
+  },
+  "event_018": {
+    "security": -1,
+    "public_trust": 2,
+    "enemy_influence": 0,
+    "casualties": 0,
+    "stability": -1,
+    "budget": 0
+  },
+  "event_019": {
+    "security": 10,
+    "public_trust": -4,
+    "enemy_influence": -3,
+    "casualties": 4,
+    "stability": 2,
+    "budget": -8
+  }
+}
