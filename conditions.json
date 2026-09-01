@@ -1,0 +1,26 @@
+[
+  {
+    "variable": "enemy_influence",
+    "operator": ">=",
+    "value": 85,
+    "ending": "ending_004"
+  },
+  {
+    "variable": "stability",
+    "operator": "<=",
+    "value": 20,
+    "ending": "ending_003"
+  },
+  {
+    "variable": "casualties",
+    "operator": ">=",
+    "value": 20,
+    "ending": "ending_005"
+  },
+  {
+    "variable": "remaining_time",
+    "operator": "<=",
+    "value": 0,
+    "ending": "ending_006"
+  }
+]
