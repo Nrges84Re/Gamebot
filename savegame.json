@@ -1,0 +1,12 @@
+{
+  "current_scene": "scene_010",
+  "variables": {
+    "security": 65,
+    "public_trust": 34,
+    "enemy_influence": 45,
+    "casualties": 1,
+    "stability": 51,
+    "budget": 39,
+    "remaining_time": 7
+  }
+}
