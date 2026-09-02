@@ -1,0 +1,32 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/python_bridge.rpy", line 20, in script
+    init python:
+  File "game/python_bridge.rpy", line 226, in <module>
+    config.before_save_callbacks.append(
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^        
+Exception: config.before_save_callbacks is not a known configuration variable.
+
+-- Full Traceback ------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "game/python_bridge.rpy", line 20, in script
+    init python:
+  File "renpy/ast.py", line 1193, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1276, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/python_bridge.rpy", line 226, in <module>
+    config.before_save_callbacks.append(
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^        
+  File "renpy/defaultstore.py", line 92, in __getattr__
+    raise Exception("config.%s is not a known configuration variable." % (name))
+Exception: config.before_save_callbacks is not a known configuration variable.
+
+Windows-10-10.0.19045-SP0 AMD64
+Ren'Py 8.5.3.26051504
+GameProjectRenPy 1.0
+Thu Aug 13 14:52:13 2026

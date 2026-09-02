@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/python_bridge.rpy", line 226: expected statement.
+    config.before_save_callbacks.append(
+                                                                      ^
+
+Ren'Py Version: Ren'Py 8.5.3.26051504
+Thu Aug 13 14:48:52 2026
